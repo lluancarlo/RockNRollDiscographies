@@ -1,0 +1,20 @@
+.card {
+    background-color: #ccc;
+    border: 5px solid #aaa;
+    border-radius: 10px;
+    min-width: 220px;
+    max-width: 220px;
+    min-height: 320px;
+    max-height: 320px;
+    margin: 1%;
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
+    list-style-type: none;
+    overflow: hidden;
+    color: #000000;
+}
+
+.favorite {
+    border-color: goldenrod;
+}
